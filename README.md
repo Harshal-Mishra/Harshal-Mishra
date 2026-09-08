@@ -1,15 +1,15 @@
 # Hi, I'm Harshal 👋
 
-Pre-college student who likes building things and understanding how they work.
+First-year undergrad at **IIT Delhi**. Here to learn.
 
-## 🔨 What I'm building
+## 📚 What I'm studying
 
-**[Command Central](https://github.com/Harshal-Mishra/CommandCentral)** — a do-everything command center for macOS. Tabbed dashboard, menu-bar icon, and a global ⌥ Space palette: launch apps, track study hours, check weather and earthquakes, run a terminal, set alarms — all in one native app. SwiftUI + AppKit, built with pure Swift Package Manager (no Xcode).
+Semester 1 (2026-27):
 
-## 📚 What I'm learning
-
-- **Maths** — working through linear algebra and differential equations before college
-- **Swift & macOS development** — learned by building Command Central feature by feature
+- **MTL1001** — Mathematics I: Calculus
+- **COL1000** — Introduction to Programming
+- **ELL1000** — Introduction to Electrical Engineering
+- **CML1001 / CMP1000** — Chemistry + lab
 
 ## 🌐 Find me
 
